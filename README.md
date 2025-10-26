@@ -6,7 +6,7 @@
 
 [Download](https://files.catbox.moe/1r3ye6.osk) 
 
-(Blue and Green Cursor trail in alternates folder with original aristia reverse arrow)
+Blue and Green Cursor trail in alternates folder with original aristia reverse arrow.
 
 <h1>frankie HDDT (Latest DT skin)</h1>
 
@@ -14,4 +14,4 @@
 
 [Download](https://files.catbox.moe/hpehwl.osk)
 
-(Can be reverted to a non tripple stack skin by coppying the contents of the "Disable Tripple Stack" folder in extras along with extra cursors and other things you can use to customise the skin)
+Can be reverted to a non tripple stack skin by coppying the contents of the "Disable Tripple Stack" folder in extras along with extra cursors and other things you can use to customise the skin.
