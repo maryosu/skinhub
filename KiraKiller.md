@@ -1,3 +1,5 @@
+My other skins are [here](https://github.com/maryosu/skinhub/blob/main/README.md)
+
 <h1>Kira Killer</h1>
 
 ![screenshot219](https://github.com/user-attachments/assets/04b1bb44-4476-4fa0-b1a0-536020df3eaa)
