@@ -1,39 +1,55 @@
 # mary1 osu skins
 
-<h1>Aristia 151025 (Latest NM skin)</h1>
+all skins i have edited will have (edit) in the name and what i changed about the skin 
 
-![screenshot191](https://github.com/user-attachments/assets/f32e07e6-9ec7-46cb-ad50-5630d8dcd5ad)
+all edits will contain a playfield if the skin did not already have it
 
-[Download](https://files.catbox.moe/1r3ye6.osk) 
+no pictures rn just vibes ill add later because its midnight rn while im making this and i kinda want to sleep now
 
-Blue and Green Cursor trail in alternates folder with original aristia reverse arrow.
+<h1>Mathi Ensalada RGBY (edit)</h1>
 
-<h1>frankie HDDT (Latest DT skin)</h1>
+[Download](https://frankie.s-ul.eu/6fgt9PKj)
+I changed it to use default skin colours like EZChamp and yaong cursor
 
-![screenshot192](https://github.com/user-attachments/assets/d6f8bf8d-e722-4460-b65e-aa9e605837d0)
+<h1>Mathi ensalada (edit)</h1>
 
-[Download](https://files.catbox.moe/hpehwl.osk)
+[Download](https://frankie.s-ul.eu/noznekjg)
 
-Can be reverted to a non tripple stack skin by coppying the contents of the "Disable Tripple Stack" folder in extras along with extra cursors and other things you can use to customise the skin.
+<h1>EZChamp Monko</h1>
 
-<h1>Kira Killer</h1>
+[Download](https://frankie.s-ul.eu/XACMYj4p)
 
-![screenshot219](https://github.com/user-attachments/assets/04b1bb44-4476-4fa0-b1a0-536020df3eaa)
+<h1>EZChamp Aristia</h1>
 
-[Download](https://frankie.s-ul.eu/wZqOOwlG)
+[Download](https://frankie.s-ul.eu/d5pgNpZJ)
 
-<h2>XooMoon Ver</h2>
+<h1>Rafis elohere (edit)</h1>
 
-![screenshot224](https://github.com/user-attachments/assets/c0b03c27-f333-4bea-95b3-738805876fe7)
+[Download](https://frankie.s-ul.eu/lzBSPwaM)
+loads of cookiezi elements being the result screen, score and score entry text and the spinner background
 
-[Download](https://frankie.s-ul.eu/OGfchDfU)
+<h1>Rafis HDDT (edit)</h1>
 
-<h2>Azerino Ver</h2>
+[Download](https://frankie.s-ul.eu/Su86zN3n)
+hitsounds from 404 skin and different reverse arrows which can be found in many skins such as aristia(edit)+trail
 
-![screenshot210](https://github.com/user-attachments/assets/2641950b-39f1-4564-897d-a2482005e2ad)
+<h1>Cinnamon DT (edit)</h1>
 
-[Download](https://frankie.s-ul.eu/lpa95iAg)
+[Download](https://frankie.s-ul.eu/c3DtSv5q)
+Changed gameplay elements to have hitcircles from rafis but sz, combo numbers from itherial htei skin (upscaled version of boop numbers), hit judgements from Aristia Refreshed skin (upscaled version of idke hit judgements), recoloured slider ball and follow circle from boop skin and cursor from boop skin
 
-So many alternetes in skin root just look for yourself vro
+<h1>Sytho Alfie (edit)</h1>
 
-More coming soon but i have so manyyy
+[Download](https://frankie.s-ul.eu/NwNIrWiU)
+
+<h1>Millhiore (edit)</h1>
+
+[Download](https://frankie.s-ul.eu/US6R6Xtv)
+cursor from mathi ensalada skin, followpoints from whitecat 1.0 skin
+
+<h1>Rohulk 4.5 (edit)</h1>
+
+[Download](https://frankie.s-ul.eu/Z4LjdMlV)
+rohulk 5.0 skin with old rohulk 4.0 hitcircles and a cursor that was in the extras folder
+
+
