@@ -22,7 +22,7 @@ I changed it to use default skin colours like EZChamp and yaong cursor
 
 [Download](https://frankie.s-ul.eu/noznekjg)
 
-<h1>EZChamp Monko</h1>
+<h1>EZChamp Monko (edit)</h1>
 
 ![screenshot015](https://github.com/user-attachments/assets/86d50fec-b8fb-40df-b19b-7307f2e48016)
 
@@ -48,7 +48,7 @@ loads of cookiezi elements being the result screen, score and score entry text a
 
 [Download](https://frankie.s-ul.eu/Su86zN3n)
 
-hitsounds from 404 skin and different reverse arrows which can be found in many skins such as aristia(edit)+trail
+hitsounds from 404 skin and different reverse arrows which can be found in many skins such as sytho skin which is further down
 
 <h1>Cinnamon DT (edit)</h1>
 
@@ -79,5 +79,13 @@ cursor from mathi ensalada skin, followpoints from whitecat 1.0 skin
 [Download](https://frankie.s-ul.eu/Z4LjdMlV)
 
 rohulk 5.0 skin with old rohulk 4.0 hitcircles and a cursor that was in the extras folder also combo numbers from cookiezi skin because the original ones way too distracting
+
+<h1>Rammu (edit)</h1>
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9ace6719-f7b6-4c60-bb32-fe28130d8102" />
+
+[Download](https://frankie.s-ul.eu/LAaW7Vyz)
+
+Input overlay replaced
 
 
