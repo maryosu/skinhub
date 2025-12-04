@@ -6,7 +6,7 @@ all edits will contain a playfield if the skin did not already have it
 
 no pictures rn just vibes ill add later because its midnight rn while im making this and i kinda want to sleep now
 
-dont have any of my old skins here because there is too many i might make a google drive or something to like here maybe
+dont have any of my old skins here because there is too many i might make a google drive or something to add here maybe
 
 <h1>Mathi Ensalada RGBY (edit)</h1>
 
