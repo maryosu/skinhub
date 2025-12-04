@@ -58,6 +58,6 @@ cursor from mathi ensalada skin, followpoints from whitecat 1.0 skin
 
 [Download](https://frankie.s-ul.eu/Z4LjdMlV)
 
-rohulk 5.0 skin with old rohulk 4.0 hitcircles and a cursor that was in the extras folder
+rohulk 5.0 skin with old rohulk 4.0 hitcircles and a cursor that was in the extras folder also combo numbers from cookiezi skin because the original ones way too distracting
 
 
