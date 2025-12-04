@@ -1,5 +1,7 @@
 # mary1 osu skins
 
+Kira Killer skin is [here](https://github.com/maryosu/skinhub/blob/main/KiraKiller.md)
+
 all skins i have edited will have (edit) in the name and what i changed about the skin 
 
 all edits will contain a playfield if the skin did not already have it
