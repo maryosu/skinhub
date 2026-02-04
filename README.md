@@ -2,9 +2,13 @@
 
 <h1>WhiteCat (1.0) 『NM + Mary』</h1>
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/586d1602-0936-4a6e-bdf9-62d8039b93da" />
+
 [Download](https://frankie.s-ul.eu/952LP0wW)
 
 <h1>theez mary edit</h1>
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e4f0990a-5ed5-49fd-8fdf-337edf080f4d" />
 
 [Download](https://frankie.s-ul.eu/W8xjBUGp)
 
@@ -12,33 +16,49 @@ remove scorebar BG for Taiko
 
 <h1>Aristia HD</h1>
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ca775887-9816-4c66-a810-70e1ad665c66" />
+
 [Download](https://frankie.s-ul.eu/gCEaBtZR)
 
 <h1>HVS</h1>
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ca7c5948-7bf6-402e-ab07-06a1b6b6ecbe" />
 
 [Download](https://frankie.s-ul.eu/igq585hj)
 
 <h1>cookiezi shit</h1>
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/978331d8-d31d-42ba-ac5c-9f3a8bc8c205" />
+
 [Download]()
 
 <h1>maryMegumin</h1>
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a3ed7aea-4237-49fd-b6c8-8eb7b22a5177" />
 
 [Download]()
 
 <h1>SameSkinButMary</h1>
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eeab031b-968e-461e-a462-08fc376d9dcb" />
+
 [Download](https://frankie.s-ul.eu/m5Xo7mlk)
 
 <h1>maryYugenButNot</h1>
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe4305ac-eb04-4153-9f02-8f58ff5416bc" />
 
 [Download]()
 
 <h1>vaxei hutao edit</h1>
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fee0187b-10e9-44e2-888b-5b57497d38a7" />
+
 [Download]()
 
 <h1>BubbleSkinWarm Mary Edit</h1>
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bdca95cc-4bf2-4442-b4c4-3b27a40a27b7" />
 
 [Download]()
 
@@ -50,17 +70,25 @@ Great for HR
 
 <h1>Seoul v9</h1>
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/90d95dff-d88f-42d1-92da-2feeebdd112d" />
+
 [Download]()
 
 <h1>freddie+fami+aireuvv</h1>
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6853d231-e08a-4593-8dde-21595d865ce4" />
 
 [Download](https://frankie.s-ul.eu/KuWHw8Me)
 
 <h1>Rafis Alfie</h1>
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e822d9cc-2302-427d-8700-495b50a2b5b4" />
+
 [Download](https://frankie.s-ul.eu/NUeRbty0)
 
 <h1>Boop Tripplestack</h1>
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a7ae8b7e-8984-4ccd-8965-bb09ba37dbc4" />
 
 [Download](https://frankie.s-ul.eu/oLjIKvdL)
 
