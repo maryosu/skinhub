@@ -10,6 +10,8 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e4f0990a-5ed5-49fd-8fdf-337edf080f4d" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b835a4f3-fed5-4923-b0ed-5368be45d32c" />
+
 [Download](https://frankie.s-ul.eu/W8xjBUGp)
 
 remove scorebar BG for Taiko
@@ -63,6 +65,8 @@ remove scorebar BG for Taiko
 [Download]()
 
 <h1>Xilver Instafade Mary Edit</h1>
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e83678d8-a474-4cdb-9849-561912aaea4b" />
 
 [Download](https://frankie.s-ul.eu/OHF77zc7)
 
