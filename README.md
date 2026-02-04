@@ -1,12 +1,98 @@
 # mary1 osu skins
 
-Kira Killer skin is [here](https://github.com/maryosu/skinhub/blob/main/KiraKiller.md)
+<h1>WhiteCat (1.0) 『NM + Mary』</h1>
 
-all skins i have edited will have (edit) in the name and what i changed about the skin 
+[Download](https://frankie.s-ul.eu/952LP0wW)
 
-all edits will contain a playfield if the skin did not already have it
+<h1>theez mary edit</h1>
 
-dont have any of my old skins here because there is too many i might make a google drive or something to add here maybe
+[Download](https://frankie.s-ul.eu/W8xjBUGp)
+
+remove scorebar BG for Taiko
+
+<h1>Aristia HD</h1>
+
+[Download](https://frankie.s-ul.eu/gCEaBtZR)
+
+<h1>HVS</h1>
+
+[Download](https://frankie.s-ul.eu/igq585hj)
+
+<h1>cookiezi shit</h1>
+
+[Download]()
+
+<h1>maryMegumin</h1>
+
+[Download]()
+
+<h1>SameSkinButMary</h1>
+
+[Download](https://frankie.s-ul.eu/m5Xo7mlk)
+
+<h1>maryYugenButNot</h1>
+
+[Download]()
+
+<h1>vaxei hutao edit</h1>
+
+[Download]()
+
+<h1>BubbleSkinWarm Mary Edit</h1>
+
+[Download]()
+
+<h1>Xilver Instafade Mary Edit</h1>
+
+[Download](https://frankie.s-ul.eu/OHF77zc7)
+
+Great for HR
+
+<h1>Seoul v9</h1>
+
+[Download]()
+
+<h1>freddie+fami+aireuvv</h1>
+
+[Download](https://frankie.s-ul.eu/KuWHw8Me)
+
+<h1>Rafis Alfie</h1>
+
+[Download](https://frankie.s-ul.eu/NUeRbty0)
+
+<h1>Boop Tripplestack</h1>
+
+[Download](https://frankie.s-ul.eu/oLjIKvdL)
+
+<h1>Millhiore (edit)</h1>
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b717dbf-beb7-4cfb-a1a6-fdd0f4563b89" />
+
+[Download](https://frankie.s-ul.eu/US6R6Xtv)
+
+cursor from mathi ensalada skin, followpoints from whitecat 1.0 skin
+
+<h1>Rohulk 4.5 (edit)</h1>
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/759ea18d-603c-4cee-ba3e-0a6a67ce656b" />
+
+[Download](https://frankie.s-ul.eu/Z4LjdMlV)
+
+rohulk 5.0 skin with old rohulk 4.0 hitcircles and a cursor that was in the extras folder also combo numbers from cookiezi skin because the original ones way too distracting
+
+<h1>Rammu (edit)</h1>
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9ace6719-f7b6-4c60-bb32-fe28130d8102" />
+
+[Download](https://frankie.s-ul.eu/LAaW7Vyz)
+
+<h1>Sytho Alfie (edit)</h1>
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9fe79257-59f0-4a1c-9993-ff7d33d47355" />
+
+[Download](https://frankie.s-ul.eu/NwNIrWiU)
+
+<h1>Skins i dont use now</h1>
 
 <h1>Mathi Ensalada RGBY (edit)</h1>
 
@@ -58,33 +144,6 @@ hitsounds from 404 skin and different reverse arrows which can be found in many 
 
 Changed gameplay elements to have hitcircles from rafis but sz, combo numbers from itherial htei skin (upscaled version of boop numbers), hit judgements from Aristia Refreshed skin (upscaled version of idke hit judgements), recoloured slider ball and follow circle from boop skin and cursor from boop skin
 
-<h1>Sytho Alfie (edit)</h1>
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9fe79257-59f0-4a1c-9993-ff7d33d47355" />
-
-[Download](https://frankie.s-ul.eu/NwNIrWiU)
-
-<h1>Millhiore (edit)</h1>
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b717dbf-beb7-4cfb-a1a6-fdd0f4563b89" />
-
-[Download](https://frankie.s-ul.eu/US6R6Xtv)
-
-cursor from mathi ensalada skin, followpoints from whitecat 1.0 skin
-
-<h1>Rohulk 4.5 (edit)</h1>
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/759ea18d-603c-4cee-ba3e-0a6a67ce656b" />
-
-[Download](https://frankie.s-ul.eu/Z4LjdMlV)
-
-rohulk 5.0 skin with old rohulk 4.0 hitcircles and a cursor that was in the extras folder also combo numbers from cookiezi skin because the original ones way too distracting
-
-<h1>Rammu (edit)</h1>
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9ace6719-f7b6-4c60-bb32-fe28130d8102" />
-
-[Download](https://frankie.s-ul.eu/LAaW7Vyz)
 
 Input overlay replaced
 
