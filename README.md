@@ -32,13 +32,13 @@ remove scorebar BG for Taiko
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/978331d8-d31d-42ba-ac5c-9f3a8bc8c205" />
 
-[Download]()
+[Download](https://drive.google.com/file/d/1j7_q8aCAMTnu6B-T0no1sIkhxaloWtGE/view?usp=drive_link)
 
 <h1>maryMegumin</h1>
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a3ed7aea-4237-49fd-b6c8-8eb7b22a5177" />
 
-[Download]()
+[Download](https://drive.google.com/file/d/1jVNrr_oJ9oVM3eufyGEy4dJROai2DqpM/view?usp=sharing)
 
 <h1>SameSkinButMary</h1>
 
@@ -50,19 +50,19 @@ remove scorebar BG for Taiko
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe4305ac-eb04-4153-9f02-8f58ff5416bc" />
 
-[Download]()
+[Download](https://drive.google.com/file/d/1Cvxf-VCR_9NlHjVUM3LqAkxPDmJXfnW8/view?usp=sharing)
 
 <h1>vaxei hutao edit</h1>
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fee0187b-10e9-44e2-888b-5b57497d38a7" />
 
-[Download]()
+[Download](https://drive.google.com/file/d/1cIQ9i7Ab53KuteykPO-iNbJDXyiTsrRr/view?usp=sharing)
 
 <h1>BubbleSkinWarm Mary Edit</h1>
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bdca95cc-4bf2-4442-b4c4-3b27a40a27b7" />
 
-[Download]()
+[Download](https://drive.google.com/file/d/1FYzYl6fusbMr1QB903VzQT1QWFn-cVDf/view?usp=sharing)
 
 <h1>Xilver Instafade Mary Edit</h1>
 
@@ -76,7 +76,7 @@ Great for HR
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/90d95dff-d88f-42d1-92da-2feeebdd112d" />
 
-[Download]()
+[Download](https://drive.google.com/file/d/1Y1oXOL2rxzQ-DfQS8ItFaCICGYUOEPqH/view?usp=sharing)
 
 <h1>freddie+fami+aireuvv</h1>
 
