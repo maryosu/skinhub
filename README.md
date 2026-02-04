@@ -118,6 +118,8 @@ rohulk 5.0 skin with old rohulk 4.0 hitcircles and a cursor that was in the extr
 
 [Download](https://frankie.s-ul.eu/LAaW7Vyz)
 
+Input overlay replaced
+
 <h1>Sytho Alfie (edit)</h1>
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9fe79257-59f0-4a1c-9993-ff7d33d47355" />
@@ -177,6 +179,6 @@ hitsounds from 404 skin and different reverse arrows which can be found in many 
 Changed gameplay elements to have hitcircles from rafis but sz, combo numbers from itherial htei skin (upscaled version of boop numbers), hit judgements from Aristia Refreshed skin (upscaled version of idke hit judgements), recoloured slider ball and follow circle from boop skin and cursor from boop skin
 
 
-Input overlay replaced
+
 
 
